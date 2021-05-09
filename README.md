@@ -9,7 +9,7 @@ An app that lets users CRUD tasks. Backend is a static file that's being served 
 
 ## Purpose
 
-To freshen up my Angular skills, I took this 2 hour project based course. It covers the basics and an introduction to RxJS by using Observables and Subjects.
+To freshen up my Angular skills, I took this 2 hour project based course. It covers the basics and an introduction to [RxJS](https://www.learnrxjs.io/) by using Observables and Subjects.
 Also routing was used, altough only to the homepage.
 
 ## Prerequisites
