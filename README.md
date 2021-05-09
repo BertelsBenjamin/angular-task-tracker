@@ -1,11 +1,11 @@
 # CrashCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
-The app was built as a code along with the [Angular Crash Course 2021](`https://www.youtube.com/watch?v=3dHNOWTI7H8`) by [Traversy Media](`https://traversymedia.com`).
+The app was built as a code along with the [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) by [Traversy Media](https://traversymedia.com).
 
 ## Description
 
-An app that lets users CRUD tasks. Backend is a static file that's being served by using [json-server](`https://www.npmjs.com/package/json-server`).
+An app that lets users CRUD tasks. Backend is a static file that's being served by using [json-server](https://www.npmjs.com/package/json-server).
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Also routing was used, altough only to the homepage.
 
 ## Prerequisites
 
-You must have [Node.js](`https://nodejs.org/en/`) and the Angular CLI version 11.2.12 installed to run this project. See below.
+You must have [Node.js](https://nodejs.org/en/) and the Angular CLI version 11.2.12 installed to run this project. See below.
 
 ## Development server
 
